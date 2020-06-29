@@ -1,0 +1,43 @@
+html ,body {
+	height: 100%;
+	width: 100%;
+	font-family: 'Indie Flower', cursive;
+	background: url(Image2.jpg) no-repeat center center fixed; 
+	opacity: 0.8;
+  	-webkit-background-size: cover;
+	-moz-background-size: cover;
+    -o-background-size: cover;
+	 background-size: cover
+}
+
+hr{
+	border-color: black;
+	
+	
+}
+h1{
+	font-size: 10rem;
+	color: green;
+}
+span{
+	color: black;
+
+}
+h3{
+	font-size: 3rem;
+	color: green;
+	font-weight: 1000;
+}
+.btn{
+	font-weight: 1000;
+	border-radius: 300px;
+	font-size: 20px;
+	;
+}
+
+.btn-xl{
+	padding: 1rem 2rem;
+}
+.btn-light:hover{
+	border-width: 3px;
+}
